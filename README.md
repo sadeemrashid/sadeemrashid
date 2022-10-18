@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadeem Rashid</h1>
-<h3 align="center">I'm a passioate student improving my skills in the field of web devlopment and database systems</h3>
+<h3 align="center">I'm a passionate graduate improving my skills in the field of web devlopment and database systems</h3>
 
 - 💬 Ask me about **interface designing and data management**
 
